@@ -1,0 +1,26 @@
+# Implementasi Pattern Matching dan Keyword Detection pada Chatbot FAQ Kampus
+
+## Deskripsi
+Chatbot FAQ Kampus menggunakan metode Pattern Matching dan Keyword Detection untuk menjawab pertanyaan mahasiswa.
+
+## Fitur
+- KRS
+- UKT
+- Akademik
+- Skripsi
+- Cuti Kuliah
+- Jadwal Kuliah
+- Perpustakaan
+- Beasiswa
+- Parkir
+- Organisasi Mahasiswa
+
+## Teknologi
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+## Author
+M. Abdul Majid Hafiz
