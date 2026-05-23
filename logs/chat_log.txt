@@ -1,0 +1,171 @@
+User: cara isi krs
+Bot: KRS dilakukan melalui portal akademik pada awal semester.User: Bagaimana cara KRS?
+Bot: KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan.
+
+User: 2 Dimana bagian akademik?
+Bot: Bagian akademik berada di gedung administrasi lantai 1 dan melayani kebutuhan administrasi mahasiswa.
+
+User: Kapan pembayaran UKT?
+Bot: Pembayaran UKT dilakukan melalui bank mitra atau sistem pembayaran kampus sesuai kalender akademik.
+
+User: Apa itu machine learning?
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: hai
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: hai
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: Bagaimana cara KRS?
+Bot: KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan.
+
+User: Dimana bagian akademik?
+Bot: Bagian akademik berada di gedung administrasi lantai 1 dan melayani kebutuhan administrasi mahasiswa.
+
+User: hallo
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: Dimana bagian akademik?
+Bot: Bagian akademik berada di gedung administrasi lantai 1 dan melayani kebutuhan administrasi mahasiswa.
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: Dimana bagian akademik?
+Bot: Bagian akademik berada di gedung administrasi lantai 1 dan melayani kebutuhan administrasi mahasiswa.
+
+User: hai
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: krs
+Bot: KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan.
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: kartu mahasiswa
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: ktm
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: Bagaimana cara KRS?
+Bot: KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan.
+
+User: kartu tanda mahasiswa
+Bot: Maaf, saya belum memahami pertanyaan Anda.
+
+Silakan tanyakan tentang:
+- KRS
+- UKT
+- Skripsi
+- Akademik
+- Cuti Kuliah
+
+User: Bagaimana cara KRS?
+Bot: KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan.
+

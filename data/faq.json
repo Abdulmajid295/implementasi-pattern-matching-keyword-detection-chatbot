@@ -1,0 +1,42 @@
+[
+  {
+    "keywords": ["krs", "registrasi", "isi krs"],
+    "response": "KRS dilakukan melalui portal akademik pada awal semester sesuai jadwal yang telah ditentukan."
+  },
+  {
+    "keywords": ["ukt", "biaya kuliah", "pembayaran"],
+    "response": "Pembayaran UKT dilakukan melalui bank mitra atau sistem pembayaran kampus sesuai kalender akademik."
+  },
+  {
+    "keywords": ["akademik", "administrasi"],
+    "response": "Bagian akademik berada di gedung administrasi lantai 1 dan melayani kebutuhan administrasi mahasiswa."
+  },
+  {
+    "keywords": ["skripsi", "tugas akhir"],
+    "response": "Mahasiswa dapat mengambil skripsi setelah memenuhi syarat jumlah SKS dan ketentuan dari program studi."
+  },
+  {
+    "keywords": ["cuti", "cuti kuliah"],
+    "response": "Pengajuan cuti kuliah dilakukan melalui bagian akademik dengan mengisi formulir pengajuan cuti."
+  },
+  {
+    "keywords": ["jadwal kuliah", "jadwal", "kuliah"],
+    "response": "Jadwal kuliah dapat dilihat melalui portal akademik atau sistem informasi kampus."
+  },
+  {
+    "keywords": ["perpustakaan", "buku", "pinjam buku"],
+    "response": "Perpustakaan kampus menyediakan layanan peminjaman buku dan ruang belajar bagi mahasiswa."
+  },
+  {
+    "keywords": ["beasiswa", "bantuan pendidikan", "kip"],
+    "response": "Informasi beasiswa dapat diperoleh melalui bagian kemahasiswaan atau website resmi kampus."
+  },
+  {
+    "keywords": ["kartu mahasiswa", "ktm", "kartu tanda mahasiswa"],
+    "response": "Kartu mahasiswa digunakan sebagai identitas resmi mahasiswa dan dapat diurus melalui bagian akademik."
+  },
+  {
+    "keywords": ["organisasi mahasiswa", "ormawa", "ukm"],
+    "response": "Mahasiswa dapat mengikuti organisasi kampus atau UKM untuk mengembangkan minat dan bakat."
+  }
+]
