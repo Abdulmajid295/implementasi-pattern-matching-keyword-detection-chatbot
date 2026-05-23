@@ -125,6 +125,25 @@ body{
     color:#666;
     margin-top:30px;
 }
+.avatar{
+    width:35px;
+    height:35px;
+    background:#4f46e5;
+    color:white;
+    border-radius:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-right:8px;
+    font-size:18px;
+    flex-shrink:0;
+}
+
+.bot{
+    display:flex;
+    align-items:flex-start;
+    gap:8px;
+}
 </style>
 
 </head>
@@ -139,10 +158,8 @@ body{
 
     <div class="chat-box" id="chatBox">
 
-        <div class="welcome">
-            Selamat datang 👋<br>
-            Silakan ketik pertanyaan Anda.
-        </div>
+        <div class="chat-box" id="chatBox">
+</div>
 
     </div>
 
@@ -160,64 +177,81 @@ body{
 
 <script>
 
-async function sendMessage(){
+function addMessage(message, sender) {
+
+    const chatBox = document.getElementById("chatBox");
+
+    if (sender === "bot") {
+
+        chatBox.innerHTML += `
+            <div class="message bot">
+                <div class="avatar">🤖</div>
+                <div class="bubble">${message}</div>
+            </div>
+        `;
+
+    } else {
+
+        chatBox.innerHTML += `
+            <div class="message user">
+                <div class="bubble">${message}</div>
+            </div>
+        `;
+    }
+
+    chatBox.scrollTop = chatBox.scrollHeight;
+}
+
+async function sendMessage() {
 
     const input = document.getElementById("message");
     const message = input.value.trim();
 
-    if(message === "") return;
+    if (message === "") return;
 
-    const chatBox = document.getElementById("chatBox");
-
-    // Pesan user
-    chatBox.innerHTML += `
-        <div class="message user">
-            <div class="bubble">${message}</div>
-        </div>
-    `;
+    addMessage(message, "user");
 
     input.value = "";
 
-    try{
+    try {
 
-        const response = await fetch("/chat",{
-            method:"POST",
-            headers:{
-                "Content-Type":"application/json"
+        const response = await fetch("/chat", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
             },
-            body:JSON.stringify({
-                message:message
+            body: JSON.stringify({
+                message: message
             })
         });
 
         const data = await response.json();
 
-        // Jawaban bot
-        chatBox.innerHTML += `
-            <div class="message bot">
-                <div class="bubble">${data.response}</div>
-            </div>
-        `;
+        addMessage(data.response, "bot");
 
-        chatBox.scrollTop = chatBox.scrollHeight;
+    } catch (error) {
 
-    }catch(error){
+        addMessage("Terjadi kesalahan pada server.", "bot");
 
-        chatBox.innerHTML += `
-            <div class="message bot">
-                <div class="bubble">
-                    Terjadi kesalahan pada server.
-                </div>
-            </div>
-        `;
     }
 }
 
-function handleEnter(event){
-    if(event.key === "Enter"){
+function handleEnter(event) {
+    if (event.key === "Enter") {
         sendMessage();
     }
 }
+
+window.onload = function() {
+
+    document.querySelector(".welcome").remove();
+
+    addMessage(
+        "Halo! Saya chatbot FAQ kampus.<br>Silakan ajukan pertanyaan Anda.",
+        "bot"
+    );
+
+};
 
 </script>
 
